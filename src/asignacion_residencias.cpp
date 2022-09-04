@@ -8,7 +8,6 @@ InCo-FIng-UDELAR
 #include "../include/asignacion_residencias.h"
 #include "../include/lista.h"
 #include <cstddef>
-#include <stdio.h>
 #include <unistd.h>
 
 
